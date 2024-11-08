@@ -7,10 +7,10 @@ import os
 app = Flask(__name__)
 
 # Daraja API credentials. Ensure to place in .env file
-CONSUMER_KEY = 'TLvW5Qv0tzAcOAz42yLIh4X6uA7Wyp8E0PBaPaiQMQjcW4AY'
-CONSUMER_SECRET = 'sT1BfqnM8XwVJwxvxjMbXzOADqoE8F9xf439HvXV3xYCmOAqtivkZDhiBfzomfds'
-BUSINESS_SHORTCODE = '174379'
-PASSKEY = 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+BUSINESS_SHORTCODE = ''
+PASSKEY = ''
 CALLBACK_URL = 'https://your-callback-url.com/callback'
 #--------------Ensure to place in .env file----------------------#
 # Function to get the access token
